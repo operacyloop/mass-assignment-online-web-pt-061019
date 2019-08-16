@@ -1,3 +1,7 @@
-class Person
-  #your code here
+class Person 
+  
+  def initialize (argument: )
+  end
+
 end
+
